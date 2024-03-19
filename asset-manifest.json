@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notes-Cum-Markdown-Editor-Web-App/static/css/main.66d9cc6d.css",
+    "main.js": "/Notes-Cum-Markdown-Editor-Web-App/static/js/main.88578bd0.js",
+    "index.html": "/Notes-Cum-Markdown-Editor-Web-App/index.html",
+    "main.66d9cc6d.css.map": "/Notes-Cum-Markdown-Editor-Web-App/static/css/main.66d9cc6d.css.map",
+    "main.88578bd0.js.map": "/Notes-Cum-Markdown-Editor-Web-App/static/js/main.88578bd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d9cc6d.css",
+    "static/js/main.88578bd0.js"
+  ]
+}
